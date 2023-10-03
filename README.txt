@@ -1,5 +1,5 @@
 Play Online:
-https://ladotx.github.io/WD-Dogfight/
+https://grepmorecat.github.io/WD-Dogfight/
 
 
 # WD-Dogfight
